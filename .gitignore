@@ -9,7 +9,6 @@
 .vim/
 .viminfo
 .gitconfig
-examples/
 breadcrumb_data/*.json
 TEST/test_data/*.json
 stop_event_data/html_data/*.html
