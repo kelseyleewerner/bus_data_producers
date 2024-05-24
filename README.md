@@ -1,4 +1,7 @@
+Please Note: This repo only contains the producers for this pipeline. The consumers can be found [here](https://github.com/kelseyleewerner/bus_data_consumers).
+
 # Guide to Files and Directories in this Repo
+
 **TEST**
 
 Directory contains a sandbox area for testing changes to both producer before they are introduced to gather_data.py or gather_events.py
